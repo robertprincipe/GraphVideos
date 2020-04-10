@@ -1,2 +1,2 @@
 # Go y GraphQL
-con gqlgen
+api de videos con gqlgen
